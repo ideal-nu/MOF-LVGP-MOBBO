@@ -8,7 +8,10 @@ Authors: Yigitcan Comlek, Thang Duc Pham, Randall Q. Snurr, Wei Chen*
 This folder contains the MATLAB code for the Latent Variable Gaussian Process - Multi-Objective Bayesian Optimization
 (LVGP-MOBBO) framework. 
 
-MAIN.m file contains the necessary code to run the framework
-LVGP folder contains the necessary files for the LVGP modeling
-MOBBO folder contains the necesaary files for MOBBO
-data folder contains the data used in this study
+**MAIN.m** file contains the necessary code to run the framework.
+
+**LVGP** folder contains the necessary files for the LVGP modeling
+
+**MOBBO** folder contains the necesaary files for MOBBO
+
+**data** folder contains the data used in this study
