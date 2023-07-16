@@ -2,7 +2,8 @@
 
 Rapid Design of Top-Performing Metal-Organic Frameworks with Qualitative Representations of Building Blocks
 Authors: Yigitcan Comlek, Thang Duc Pham, Randall Q. Snurr, Wei Chen*
-*Corresponding Author: Correspondence to Dr. Wei Chen (weichen@northwestern.edu)
+
+*Corresponding Author: Dr. Wei Chen (weichen@northwestern.edu)
 
 This folder contains the MATLAB code for the Latent Variable Gaussian Process - Multi-Objective Bayesian Optimization
 (LVGP-MOBBO) framework. 
