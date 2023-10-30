@@ -3,7 +3,7 @@
 Rapid Design of Top-Performing Metal-Organic Frameworks with Qualitative Representations of Building Blocks
 Authors: Yigitcan Comlek, Thang Duc Pham, Randall Q. Snurr, Wei Chen*
 
-This paper has been published in npj computational materials and can be accesed at https://doi.org/10.1038/s41524-023-01125-1
+This paper has been published in npj computational materials and can be accesed at https://doi.org/10.1038/s41524-023-01125-1. Please cite this work if you use the MATLAB code for your work.
 
 *Corresponding Author: Dr. Wei Chen (weichen@northwestern.edu)
 
