@@ -18,3 +18,6 @@ This folder contains the MATLAB code for the Latent Variable Gaussian Process - 
 **MOBBO** folder contains the necesaary files for MOBBO
 
 **data** folder contains the data used in this study
+
+**Important Note**: The code is under an Academic and Non-Commerical Research use license.
+
